@@ -38,11 +38,11 @@ export function InstallPwa() {
   }
   return (
     <button
-      className="install"
+      className="install select-none bg-darkerBlack dark:bg-lighterWhite text-lighterWhite dark:text-darkerBlack h-10 px-3 rounded-2xl text-base font-medium transition duration-100 hover:ease-in hover:opacity-80 xs:text-lg sm:px-4"
       aria-label="Install PWA"
       onClick={onClick}
     >
-      Install PWA
+      install 
     </button>
   );
 }
