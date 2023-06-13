@@ -12,16 +12,18 @@ module.exports = {
     },
     colors: {
       alertRed: "#e35454",
-      berryBlue: "#79CBE3",
-      darkBlack: "#101017",
+      berryBlue: "#79cbe3",
+      darkBlack: "#101018",
       darkerBlack: "#080811",
       lightWhite: "#fcfcfd",
       lighterWhite: "#fdfdff",
-      twitterBlue: "#1DA1F2",
-      purpleRain: "#642D80",
+      twitterBlue: "#1da1f2",
+      purpleRain: "#642d80",
       instagramPink: "#d62976",
       instagramPurple: "#962fbf",
       instagramOrange: "#fa7e1e",
+      unavailableLight: "#dbdbdf",
+      unavailableDark: "#202028",
     },
     extend: {
       boxShadow: {
